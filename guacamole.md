@@ -7,3 +7,4 @@
 * tomato
 * chili
 ## Instructions
+* Put avocados in a bowl
